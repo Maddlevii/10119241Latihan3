@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <solid android:color="@color/colorWhiteE" />
+    <corners android:radius="@dimen/dimen18" />
+</shape>
+    <!--Pengerjaan : 25-26 Aprill 2022-->
+    <!--Nim : 10119241-->
+    <!--Nama : Ahmad Fahmi Fahlevi-->
+    <!--Kelas : IF6-->
